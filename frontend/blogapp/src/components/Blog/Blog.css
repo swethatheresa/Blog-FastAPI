@@ -1,0 +1,18 @@
+.card{
+    border: solid;
+    border-color:black;
+    padding: 1em;
+    flex-direction: column;
+    border-radius: 0.6em;
+    margin: 3em;
+}
+.card-btn{
+    border:solid;
+    border-radius: 0.6em;
+    border-color: black;
+}
+.card-btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
